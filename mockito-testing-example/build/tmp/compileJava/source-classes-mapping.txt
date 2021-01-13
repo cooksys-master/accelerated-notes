@@ -1,0 +1,16 @@
+com/example/demo/mappers/QuizMapper.java
+ com.example.demo.mappers.QuizMapper
+com/example/demo/entities/Quiz.java
+ com.example.demo.entities.Quiz
+com/example/demo/models/QuizDto.java
+ com.example.demo.models.QuizDto
+com/example/demo/services/QuizService.java
+ com.example.demo.services.QuizService
+com/example/demo/DemoApplication.java
+ com.example.demo.DemoApplication
+com/example/demo/repositories/QuizRepository.java
+ com.example.demo.repositories.QuizRepository
+com/example/demo/controllers/QuizController.java
+ com.example.demo.controllers.QuizController
+com/example/demo/services/impl/QuizServiceImpl.java
+ com.example.demo.services.impl.QuizServiceImpl
